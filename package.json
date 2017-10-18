@@ -1,6 +1,6 @@
 {
-  "name": "dagre-d3v4",
-  "version": "0.5.0",
+  "name": "ciena-dagre-d3",
+  "version": "0.5.1",
   "description": "A D3-based renderer for Dagre",
   "author": "Chris Pettitt <chris@samsarin.com>",
   "contributors": [
@@ -17,9 +17,9 @@
   "license": "MIT",
   "dependencies": {
     "d3": "^4.7.4",
-    "dagre": "^0.7.4",
-    "graphlib": "^1.0.5",
-    "lodash": "^3.10.0"
+    "ciena-dagre": "^1.0.10",
+    "ciena-graphlib": "^1.0.0",
+    "lodash": "^4.15.0"
   },
   "devDependencies": {
     "browser-sync": "^2.7.1",
